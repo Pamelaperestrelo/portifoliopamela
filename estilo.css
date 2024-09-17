@@ -197,16 +197,4 @@ h5 {
 .ver-link hover {
     background-color: hsla(316, 18%, 37%, 0.9); }
 
-/* Estilos para dispositivos móveis */
-@media (max-width: 600px) {
-  body {
-    background-color: lightblue;
-  }
-}
 
-/* Estilos para desktops */
-@media (min-width: 601px) {
-  body {
-    background-color: lightgreen;
-  }
-}
